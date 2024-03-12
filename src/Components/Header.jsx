@@ -8,7 +8,7 @@ function Header() {
     const [toggle ,setToggle ] = useState(false)
 
   return (
-    <header className='bg-[#2699fb] p-4'>
+    <header className='bg-[#04b913] p-4'>
         <div className='py-[10px] max-w-[1240px] items-center  mx-auto flex justify-between '>
             <div className='text-3xl font-bold
             '>
